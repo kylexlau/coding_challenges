@@ -35,6 +35,3 @@ def even_fib_sum(n)
 end
 
 puts even_fib_sum(400_0000)
-
-
-
