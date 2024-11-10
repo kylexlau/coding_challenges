@@ -1,4 +1,4 @@
-# Weather Forecast
+ # Weather Forecast
 
 Welcome to Weather Forecast on Exercism's Go Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
@@ -63,4 +63,4 @@ Goblinocus forecast operators want to know what the `Forecast()` function does (
 ### Created by
 
 - @nikimanoledaki
-- @micuffaro
+- @micuffaro 
